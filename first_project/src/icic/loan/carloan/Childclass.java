@@ -11,7 +11,7 @@ public class Childclass extends FirstAbstract
 	@Override
 	public void m2() {
 		// TODO Auto-generated method stub
-		System.out.println("i am m2 overrideen in childclass");
+		System.out.println("i am m2 overrideen in childcla");
 	}
 
 }
